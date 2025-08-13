@@ -1,0 +1,160 @@
+{
+  "navigation": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "Boost your LinkedIn visibility with",
+    "subtitle": "Publish, amplify, and analyze your LinkedIn content with our all-in-one platform designed to maximize your professional impact.",
+    "getStartedFree": "Get Started Free",
+    "watchDemo": "Watch Demo"
+  },
+  "features": {
+    "title": "Everything you need to succeed on LinkedIn",
+    "subtitle": "Powerful features designed to help you grow your professional network and engagement.",
+    "planPublish": {
+      "title": "Plan & Publish",
+      "description": "Schedule and automate your LinkedIn posts with our intuitive content calendar."
+    },
+    "amplifyReach": {
+      "title": "Amplify Reach",
+      "description": "Expand your content's visibility with smart distribution and engagement tools."
+    },
+    "advancedAnalytics": {
+      "title": "Advanced Analytics",
+      "description": "Gain insights into your content performance and audience engagement."
+    },
+    "teamCollaboration": {
+      "title": "Team Collaboration",
+      "description": "Work seamlessly with your team on content creation and approval workflows."
+    }
+  },
+  "whyChoose": {
+    "title": "🚀 Why choose Konnektis?",
+    "subtitle": "Boost your LinkedIn presence, in full compliance.",
+    "audience": {
+      "title": "Targeted Audience",
+      "description": "Identify the best times, formats, and topics that generate the most engagement for your real audience."
+    },
+    "timeSaving": {
+      "title": "Time Saving",
+      "description": "Schedule your posts, centralize your content, and collaborate with your team on one platform."
+    },
+    "dataDriven": {
+      "title": "Data-Driven Insights",
+      "description": "Track impressions, clicks, followers, and engagement in real time from official LinkedIn data."
+    },
+    "humanEngagement": {
+      "title": "Enhanced Human Engagement",
+      "description": "Mobilize your team with targeted notifications and ready-to-use comment suggestions."
+    },
+    "security": {
+      "title": "Security & Compliance",
+      "description": "OAuth LinkedIn authentication, data encryption, and strict compliance with LinkedIn's terms of use."
+    },
+    "intelligentRecommendations": {
+      "title": "Intelligent Recommendations",
+      "description": "Receive personalized advice based on your performance to optimize your content strategy."
+    }
+  },
+  "testimonials": {
+    "title": "Trusted by businesses worldwide",
+    "sarah": {
+      "quote": "Konnektis transformed our LinkedIn strategy. Engagement grew by 300% in just 3 months!",
+      "name": "Sarah Chen",
+      "role": "Marketing Director @TechStartup"
+    },
+    "michael": {
+      "quote": "The scheduling feature has saved us countless hours. Our social media manager is now more efficient than ever!",
+      "name": "Michael Chen",
+      "role": "CEO @GrowthHackers"
+    },
+    "priya": {
+      "quote": "The analytics dashboard provides insights we couldn't get anywhere else. It's like having a data scientist on the team!",
+      "name": "Priya Patel",
+      "role": "Head of Marketing @DataInsights"
+    }
+  },
+  "pricing": {
+    "title": "Plans & Pricing – Konnektis",
+    "subtitle": "Choose the plan that fits your needs. All paid plans include a 14-day free trial, no credit card required.",
+    "free": {
+      "name": "Free Plan",
+      "price": "0",
+      "currency": "DT",
+      "period": "limited to 1 month",
+      "features": [
+        "1 LinkedIn Page",
+        "1 user",
+        "3 scheduled posts / month",
+        "7-day analytics"
+      ],
+      "cta": "Start Free"
+    },
+    "starter": {
+      "name": "Starter",
+      "price": "39",
+      "currency": "DT",
+      "period": "/ month",
+      "features": [
+        "1 LinkedIn Page",
+        "2 users",
+        "Unlimited posts",
+        "14-day analytics"
+      ],
+      "cta": "Start Free Trial"
+    },
+    "pro": {
+      "name": "Pro",
+      "popular": "Popular",
+      "price": "99",
+      "currency": "DT",
+      "period": "/ month",
+      "features": [
+        "Up to 3 LinkedIn Pages",
+        "10 users",
+        "Advanced scheduling",
+        "Advocacy module"
+      ],
+      "cta": "Start Free Trial"
+    },
+    "business": {
+      "name": "Business",
+      "price": "199",
+      "currency": "DT",
+      "period": "/ month",
+      "features": [
+        "Unlimited pages & users",
+        "Approval workflow",
+        "12-month analytics",
+        "Priority support & SLA"
+      ],
+      "cta": "Request Demo"
+    }
+  },
+  "cta": {
+    "title": "Ready to transform your LinkedIn presence?",
+    "subtitle": "Join thousands of businesses already using Konnektis.",
+    "button": "Start Free Trial"
+  },
+  "footer": {
+    "description": "Transform your LinkedIn marketing with data-driven strategies.",
+    "product": {
+      "title": "Product",
+      "features": "Features",
+      "pricing": "Pricing",
+      "api": "API"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About",
+      "blog": "Blog",
+      "careers": "Careers"
+    },
+    "copyright": "© 2024 Konnektis. All rights reserved."
+  }
+}
+

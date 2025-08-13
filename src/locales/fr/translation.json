@@ -1,0 +1,154 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "about": "À propos",
+    "getStarted": "Commencer"
+  },
+  "hero": {
+    "title": "Boostez votre visibilité sur LinkedIn avec",
+    "subtitle": "Publiez, amplifiez et analysez votre contenu LinkedIn avec notre plateforme tout-en-un conçue pour maximiser votre impact professionnel.",
+    "getStartedFree": "Commencer gratuitement",
+    "watchDemo": "Voir la démo"
+  },
+  "features": {
+    "title": "Tout ce dont vous avez besoin pour réussir sur LinkedIn",
+    "subtitle": "Des fonctionnalités puissantes conçues pour vous aider à développer votre réseau professionnel et votre engagement.",
+    "planPublish": {
+      "title": "Planifier & Publier",
+      "description": "Planifiez et automatisez vos publications LinkedIn avec notre calendrier de contenu intuitif."
+    },
+    "amplifyReach": {
+      "title": "Amplifier la portée",
+      "description": "Élargissez la visibilité de votre contenu avec des outils intelligents de distribution et d'engagement."
+    },
+    "advancedAnalytics": {
+      "title": "Analyses avancées",
+      "description": "Obtenez des informations détaillées sur les performances de votre contenu et l'engagement de votre audience."
+    },
+    "teamCollaboration": {
+      "title": "Collaboration d'équipe",
+      "description": "Travaillez en toute transparence avec votre équipe sur la création et la validation de contenu."
+    }
+  },
+  "whyChoose": {
+    "title": "🚀 Pourquoi choisir Konnektis ?",
+    "subtitle": "Développez votre présence sur LinkedIn en toute conformité.",
+    "audience": {
+      "title": "Audience ciblée",
+      "description": "Identifiez les meilleurs moments, formats et sujets qui génèrent le plus d'engagement pour votre véritable audience."
+    },
+    "timeSaving": {
+      "title": "Gain de temps",
+      "description": "Planifiez vos publications, centralisez votre contenu et collaborez avec votre équipe sur une seule plateforme."
+    },
+    "dataDriven": {
+      "title": "Pilotage par la donnée",
+      "description": "Suivez les impressions, clics, abonnés et l'engagement en temps réel grâce aux données officielles de LinkedIn."
+    },
+    "humanEngagement": {
+      "title": "Engagement humain",
+      "description": "Concentrez-vous sur des interactions authentiques avec votre audience grâce à un contenu pertinent et engageant."
+    }
+  },
+  "testimonials": {
+    "title": "Ce que disent nos utilisateurs",
+    "subtitle": "Rejoignez des milliers de professionnels qui font confiance à Konnektis pour développer leur présence sur LinkedIn.",
+    "sarah": {
+      "quote": "Konnektis a transformé notre façon de gérer notre contenu LinkedIn. Les analyses sont incroyablement détaillées.",
+      "name": "Sarah Johnson",
+      "role": "Directrice Marketing chez TechCorp"
+    },
+    "michael": {
+      "quote": "La fonction de planification nous fait gagner des heures chaque semaine. Je le recommande vivement à toute équipe sérieuse sur LinkedIn.",
+      "name": "Michael Chen",
+      "role": "PDG de StartUp Inc."
+    },
+    "priya": {
+      "quote": "Le meilleur outil LinkedIn que nous ayons utilisé. Les fonctionnalités de collaboration d'équipe changent la donne.",
+      "name": "Emma Davis",
+      "role": "Responsable des Médias Sociaux"
+    }
+  },
+  "pricing": {
+    "title": "Des tarifs simples et transparents",
+    "subtitle": "Choisissez la formule qui vous convient le mieux, à vous et à votre équipe.",
+    "free": {
+      "name": "Plan Gratuit",
+      "price": "0",
+      "currency": "DT",
+      "period": "limité à 1 mois",
+      "features": [
+        "1 Page LinkedIn",
+        "1 utilisateur",
+        "3 publications planifiées / mois",
+        "Analyses sur 7 jours"
+      ],
+      "cta": "Commencer gratuitement"
+    },
+    "starter": {
+      "name": "Débutant",
+      "price": "39",
+      "currency": "DT",
+      "period": "/ mois",
+      "features": [
+        "1 Page LinkedIn",
+        "2 utilisateurs",
+        "Publications illimitées",
+        "Analyses sur 14 jours"
+      ],
+      "cta": "Essai gratuit"
+    },
+    "pro": {
+      "name": "Professionnel",
+      "popular": "Populaire",
+      "price": "99",
+      "currency": "DT",
+      "period": "/ mois",
+      "features": [
+        "Jusqu'à 3 Pages LinkedIn",
+        "10 utilisateurs",
+        "Planification avancée",
+        "Module d'advocacy"
+      ],
+      "cta": "Essai gratuit"
+    },
+    "business": {
+      "name": "Entreprise",
+      "price": "199",
+      "currency": "DT",
+      "period": "/ mois",
+      "features": [
+        "Pages et utilisateurs illimités",
+        "Workflow d'approbation",
+        "Analyses sur 12 mois",
+        "Support prioritaire et SLA"
+      ],
+      "cta": "Demander une démo"
+    }
+  },
+  "cta": {
+    "title": "Prêt à transformer votre présence sur LinkedIn ?",
+    "subtitle": "Rejoignez les milliers d'entreprises qui utilisent déjà Konnektis.",
+    "button": "Essai gratuit"
+  },
+  "footer": {
+    "description": "Transformez votre marketing LinkedIn avec des stratégies basées sur les données.",
+    "product": {
+      "title": "Produit",
+      "features": "Fonctionnalités",
+      "pricing": "Tarifs",
+      "about": "À propos",
+      "contact": "Contact"
+    },
+    "legal": {
+      "title": "Légal",
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions d'utilisation",
+      "cookies": "Politique des cookies"
+    },
+    "copyright": "2023 Konnektis. Tous droits réservés.",
+    "madeWith": "Fait avec par l'équipe Konnektis"
+  }
+}
